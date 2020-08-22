@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\mka.itstep\Desktop\Нова папка\Class\22.08.2020\22.08.2020\Source.cpp(16,9): error C2015: too many characters in constant
-C:\Users\mka.itstep\Desktop\Нова папка\Class\22.08.2020\22.08.2020\Source.cpp(16,16): error C2664: 'int system(const char *)': cannot convert argument 1 from 'int' to 'const char *'
-C:\Users\mka.itstep\Desktop\Нова папка\Class\22.08.2020\22.08.2020\Source.cpp(16,9): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1218,26): message : see declaration of 'system'
